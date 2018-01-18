@@ -1,3 +1,5 @@
+// Missing parts: Loki, Bo, Wyrm
+
 // Warframes
 var BANSHEEPRIME = {Blueprint:45, Chassis:100, Neuroptics:15, Systems:100};
 var HYDROIDPRIME = {Blueprint:45, Chassis:15, Neuroptics:45, Systems:100};

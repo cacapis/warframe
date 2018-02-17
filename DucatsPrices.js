@@ -52,6 +52,7 @@ var VENKAPRIME = {Blueprint:45, Blades:15, Gauntlet:100};
 // Weapons - Vaulted
 var AKLEXPRIME = {Blueprint:45, Link:100};
 var ANKYROSPRIME = {Blueprint:15, Blade:65, Gauntlet:15};
+var BOPRIME = {Blueprint:15, Handle:45, Ornament:15};
 var BOARPRIME = {Blueprint:15, Barrel:45, Receiver:15, Stock:100};
 var BOLTORPRIME = {Blueprint:100, Barrel:15, Receiver:45, Stock:15};
 var DAKRAPRIME = {Blueprint:45, Blade:65, Handle:15};

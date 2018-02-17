@@ -25,6 +25,7 @@ var VOLTPRIME = {Blueprint:45, Chassis:45, Neuroptics:45, Systems:45};
 var HELIOSPRIME = {Blueprint:45, Carapace:15, Cerebrum:100, Systems:45};
 // Sentinels - Vaulted
 var CARRIERPRIME = {Blueprint:15, Carapace:15, Cerebrum:65, Systems:15};
+var WYRMPRIME = {Blueprint:15, Carapace:15, Cerebrum:15, Systems:45};
 
 // Weapons
 var AKBOLTOPRIME = {Blueprint:15, Barrel:45, Link:45, Receiver:100};

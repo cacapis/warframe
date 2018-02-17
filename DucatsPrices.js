@@ -12,6 +12,7 @@ var VAUBANPRIME = {Blueprint:100, Chassis:100, Neuroptics:100, Systems:100};
 var ASHPRIME = {Blueprint:45, Chassis:15, Neuroptics:45, Systems:65};
 var EMBERPRIME = {Blueprint:100, Chassis:15, Neuroptics:15, Systems:45};
 var FROSTPRIME = {Blueprint:100, Chassis:15, Neuroptics:15, Systems:45};
+var LOKIPRIME = {Blueprint:15, Chassis:45, Neuroptics:15, Systems:100};
 var MAGPRIME = {Blueprint:100, Chassis:45, Neuroptics:15, Systems:15};
 var NOVAPRIME = {Blueprint:45, Chassis:100, Neuroptics:15, Systems:15};
 var NYXPRIME = {Blueprint:15, Chassis:100, Neuroptics:100, Systems:45};

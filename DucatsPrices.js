@@ -7,7 +7,7 @@ var MIRAGEPRIME = {Blueprint:100, Chassis:15, Neuroptics:15, Systems:45};
 var NEKROSPRIME = {Blueprint:100, Chassis:15, Neuroptics:45, Systems:100};
 var OBERONPRIME = {Blueprint:45, Chassis:15, Neuroptics:100, Systems:100};
 var VALKYRPRIME = {Blueprint:15, Chassis:100, Neuroptics:45, Systems:100};
-var VAUBANPRIME = {Blueprint:100, Chassis:100, Neuroptics:100, Systems:100};
+var ZEPHYRPRIME = {Blueprint:100, Chassis:45, Neuroptics:15, Systems:100};
 // Warframes - Vaulted
 var ASHPRIME = {Blueprint:45, Chassis:15, Neuroptics:45, Systems:65};
 var EMBERPRIME = {Blueprint:100, Chassis:15, Neuroptics:15, Systems:45};
@@ -20,6 +20,7 @@ var RHINOPRIME = {Blueprint:100, Chassis:65, Neuroptics:45, Systems:15};
 var SARYNPRIME = {Blueprint:65, Chassis:100, Neuroptics:45, Systems:15};
 var TRINITYPRIME = {Blueprint:45, Chassis:45, Neuroptics:25, Systems:15};
 var VOLTPRIME = {Blueprint:45, Chassis:45, Neuroptics:45, Systems:45};
+var VAUBANPRIME = {Blueprint:100, Chassis:100, Neuroptics:100, Systems:100};
 
 // Sentinels
 var HELIOSPRIME = {Blueprint:45, Carapace:15, Cerebrum:100, Systems:45};
@@ -41,6 +42,7 @@ var FANGPRIME = {Blueprint:15, Blade:15, Handle:25};
 var FRAGORPRIME = {Blueprint:65, Handle:65, Head:15};
 var GALATINEPRIME = {Blueprint:100, Blade:15, Handle:45};
 var KOGAKEPRIME = {Blueprint:45, Boot:15, Gauntlet:100};
+var KRONENPRIME = {Blueprint:15, Blade:100, Handle:45};
 var LEXPRIME = {Blueprint:25, Barrel:15, Receiver:15};
 var NAMISKYLAPRIME = {Blueprint:15, Blade:100, Handle:45};
 var ORTHOSPRIME = {Blueprint:45, Blade:45, Handle:15};
@@ -48,6 +50,7 @@ var PARISPRIME = {Blueprint:15, Grip:45, "Lower Limb":15, String:15, "Upper Limb
 var SILVAAEGISPRIME = {Blueprint:45, Blade:45, Guard:100, Hilt:15};
 var SYBARISPRIME = {Blueprint:15, Barrel:100, Receiver:45, Stock:15};
 var TIGRISPRIME = {Blueprint:100, Barrel:45, Receiver:45, Stock:15};
+var TIBERONPRIME = {Blueprint:45, Barrel:100, Receiver:15, Stock:100};
 var VENKAPRIME = {Blueprint:45, Blades:15, Gauntlet:100};
 // Weapons - Vaulted
 var AKLEXPRIME = {Blueprint:45, Link:100};
